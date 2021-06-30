@@ -5,6 +5,7 @@
 .classpath
 /test-output/
 /log/
-/resources/
+
+/resources/drivers
 /.settings/
 extent-config.xml
