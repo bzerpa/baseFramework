@@ -6,6 +6,6 @@
 /test-output/
 /log/
 
-/resources/drivers/*
+/resources/drivers/chromedriver.exe
 /.settings/
 extent-config.xml
