@@ -6,6 +6,6 @@
 /test-output/
 /log/
 
-/resources/drivers
+/resources/drivers/*
 /.settings/
 extent-config.xml
