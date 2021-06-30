@@ -1,0 +1,10 @@
+/target/
+.idea/.name
+.idea/misc.xml
+.idea/modules.xml
+.idea/safewalk-fast-auth-tests.iml
+.idea/workspace.xml
+.project
+*.apk
+*.ipa
+.classpath
